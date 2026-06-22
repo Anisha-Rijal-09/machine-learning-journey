@@ -1,0 +1,51 @@
+Student_ID,Name,Age,Gender,Study_Hours,Attendance,Math_Score,Science_Score,City,Parent_Education
+1,Anisha,18,Female,4,90,85,88,Kathmandu,Bachelor
+2,Ram,19,Male,NaN,85,78,NaN,Pokhara,Master
+3,Sita,NaN,Female,5,NaN,92,90,Butwal,Bachelor
+4,Hari,20,Male,3,80,75,77,Lalitpur,High School
+5,Gita,18,Female,6,95,94,96,Bhaktapur,Master
+6,Bikash,21,Male,2,70,65,68,Chitwan,Bachelor
+7,Nisha,19,Female,4,88,84,86,Pokhara,Bachelor
+8,Rajan,NaN,Male,5,92,89,91,Kathmandu,Master
+9,Pooja,20,Female,3,75,72,74,Butwal,High School
+10,Suman,18,Male,4,85,80,82,Dharan,Bachelor
+11,Kiran,19,Male,NaN,78,,79,Lalitpur,Bachelor
+12,Rita,20,Female,5,90,,89,Bhaktapur,Master
+13,Ashok,21,Male,3,82,,73,Chitwan,High School
+14,Mina,18,Female,4,87,,85,Kathmandu,Bachelor
+15,Deepak,19,Male,2,NaN,,70,Pokhara,High School
+16,Sabina,20,Female,6,96,,97,Dharan,Master
+17,Ramesh,22,Male,4,84,,80,Butwal,Bachelor
+18,Sarita,NaN,Female,5,89,,90,Lalitpur,Bachelor
+19,Prakash,20,Male,3,77,,75,Chitwan,High School
+20,Rekha,18,Female,4,91,86,87,Bhaktapur,Master
+21,Ajay,19,Male,2,72,69,71,Dharan,Bachelor
+22,Sneha,20,Female,5,93,92,94,Kathmandu,Master
+23,Nabin,21,Male,4,86,84,83,Pokhara,Bachelor
+24,Sunita,18,Female,3,79,77,76,Butwal,High School
+25,Rohit,20,Male,NaN,81,78,80,Lalitpur,Bachelor
+26,Manisha,19,Female,6,97,96,98,Bhaktapur,Master
+27,Arjun,22,Male,2,74,70,72,Chitwan,High School
+28,Kabita,20,Female,5,90,89,91,Dharan,Bachelor
+29,Suresh,21,Male,3,83,79,81,Kathmandu,Bachelor
+30,Asmita,18,Female,4,88,85,84,Pokhara,Master
+31,Binod,19,Male,2,71,67,69,Butwal,High School
+32,Roshni,20,Female,5,94,93,95,Lalitpur,Master
+33,Shyam,21,Male,4,85,82,84,Chitwan,Bachelor
+34,Alina,18,Female,3,80,78,79,Bhaktapur,High School
+35,Dinesh,20,Male,NaN,76,74,73,Dharan,Bachelor
+36,Priyanka,19,Female,6,98,97,99,Kathmandu,Master
+37,Madan,22,Male,2,73,71,70,Pokhara,High School
+38,Shreya,20,Female,5,92,90,93,Butwal,Bachelor
+39,Ganesh,21,Male,4,84,81,82,Lalitpur,Bachelor
+40,Laxmi,18,Female,3,78,75,77,Chitwan,High School
+41,Niraj,19,Male,2,69,66,68,Bhaktapur,Bachelor
+42,Sushma,20,Female,5,95,94,96,Dharan,Master
+43,Tej,21,Male,4,87,85,86,Kathmandu,Bachelor
+44,Reshma,18,Female,3,82,80,81,Pokhara,High School
+45,Kamal,20,Male,2,75,72,74,Butwal,Bachelor
+46,Aarti,19,Female,6,97,95,98,Lalitpur,Master
+47,Suraj,21,Male,4,88,86,87,Chitwan,Bachelor
+48,Namrata,NaN,Female,5,91,90,92,Bhaktapur,Master
+49,,,,,,,,,
+50,Pratima,18,Female,4,89,88,90,Kathmandu,Bachelor
