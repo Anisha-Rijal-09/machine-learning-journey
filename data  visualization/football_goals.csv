@@ -1,0 +1,36 @@
+Player,Team,Match,Goal_Minute
+Messi,Inter Miami,Match 1,12
+Messi,Inter Miami,Match 2,45
+Messi,Inter Miami,Match 3,78
+Messi,Inter Miami,Match 4,85
+Messi,Inter Miami,Match 5,23
+Ronaldo,Al Nassr,Match 1,8
+Ronaldo,Al Nassr,Match 2,34
+Ronaldo,Al Nassr,Match 3,67
+Ronaldo,Al Nassr,Match 4,90
+Ronaldo,Al Nassr,Match 5,72
+Mbappe,Real Madrid,Match 1,15
+Mbappe,Real Madrid,Match 2,52
+Mbappe,Real Madrid,Match 3,70
+Mbappe,Real Madrid,Match 4,88
+Mbappe,Real Madrid,Match 5,41
+Haaland,Manchester City,Match 1,22
+Haaland,Manchester City,Match 2,41
+Haaland,Manchester City,Match 3,60
+Haaland,Manchester City,Match 4,75
+Haaland,Manchester City,Match 5,84
+Kane,Bayern Munich,Match 1,10
+Kane,Bayern Munich,Match 2,30
+Kane,Bayern Munich,Match 3,55
+Kane,Bayern Munich,Match 4,82
+Kane,Bayern Munich,Match 5,65
+Salah,Liverpool,Match 1,18
+Salah,Liverpool,Match 2,49
+Salah,Liverpool,Match 3,72
+Salah,Liverpool,Match 4,86
+Salah,Liverpool,Match 5,27
+Neymar,Santos,Match 1,14
+Neymar,Santos,Match 2,39
+Neymar,Santos,Match 3,58
+Neymar,Santos,Match 4,80
+Neymar,Santos,Match 5,89
