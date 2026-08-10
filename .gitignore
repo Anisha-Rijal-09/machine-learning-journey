@@ -1,1 +1,8 @@
 ﻿**/.ipynb_checkpoints/
+.history/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+Imbalanced data handling/
